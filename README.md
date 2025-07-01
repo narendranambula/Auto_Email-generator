@@ -1,9 +1,32 @@
-# Email Writer (Spring Boot + Gemini API)
+# 📧 Email Writer – Spring Boot + Gemini API
 
-This application allows users to generate professional email replies using the Gemini 2.0 Flash model from Google Generative Language API. Users provide the original email content and tone (e.g., formal, friendly), and the app returns an AI-generated reply.
+A Spring Boot-based web application that uses Google's **Gemini 2.0 Flash** model to generate **professional email replies** based on given input content and tone.
 
-## Features
-- Spring Boot REST API
-- Reactive WebClient integration
-- Google Gemini model usage
-- Customizable tone for responses
+---
+
+## 🚀 Features
+
+- 🌐 RESTful API using Spring Boot
+- ⚡ Reactive `WebClient` integration
+- 🤖 AI-generated email replies using Google Gemini API
+- 🎯 Tone customization (e.g., formal, friendly, persuasive)
+- 🛡️ CORS enabled for frontend integration
+
+---
+
+## 🏗️ Tech Stack
+
+- Java 17+
+- Spring Boot 3+
+- WebFlux (for non-blocking HTTP calls)
+- Lombok
+- Google Generative Language API (Gemini 2.0 Flash)
+
+---
+
+## 📦 Setup Instructions
+
+### 1. **Clone the repository**
+```bash
+git clone https://github.com/<your-username>/email-writer-sb.git
+cd email-writer-sb
