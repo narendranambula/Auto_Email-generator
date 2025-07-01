@@ -21,3 +21,21 @@ A Spring Boot-based web application that uses Google's **Gemini 2.0 Flash** mode
 - WebFlux (for non-blocking HTTP calls)
 - Lombok
 - Google Generative Language API (Gemini 2.0 Flash)
+
+## 📸 Screenshots
+
+### ✅ Spring Boot Server Running
+![Server Running](./server_running.png)
+
+### 📥 Email Input Provided
+![Email Input](./email_1.png)
+
+### ✨ AI-Generated Reply (1st Version)
+![Generated Reply](./Replay_generated.png)
+
+### 🤖 AI Reply (Formatted)
+![AI Reply](./AI_replay.png)
+
+### 🌐 Chrome Extension (Optional Integration)
+![Chrome Extension](./chrome_ext.png)
+
