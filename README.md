@@ -52,15 +52,16 @@ The user submits an original email message that needs a professional reply. This
 
 ### ✨ 4. Output Phase – AI-Generated Reply
 
+**Alternate/Improved AI Response:**
+
+![AI Reply](./AI_replay.png)
+
+
 The Gemini model takes the prompt and tone as input and returns a human-like, professional email response.
 
 **First Generated Output:**
 
 ![Generated Reply](./Replay_generated.png)
-
-**Alternate/Improved AI Response:**
-
-![AI Reply](./AI_replay.png)
 
 ---
 
